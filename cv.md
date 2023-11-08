@@ -17,3 +17,10 @@
 2010-2018 GPN-Kazakhstan, Lawyer
 2007-2010 AF, Assistant
 2005-2006 MU RK, Specialist 
+
+#### Skills and Proficiency:
+- HTML, CSS
+- JavaScript, Typescript, React, Node.js
+- Git, GitHub
+- VS Code
+- Adobe Photoshop, Illustrator, InDesign, Figma
